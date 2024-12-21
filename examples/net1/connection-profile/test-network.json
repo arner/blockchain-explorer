@@ -9,6 +9,7 @@
 		},
 		"enableAuthentication": true,
 		"organization": "Org1MSP",
+		"channel": "mychannel",
 		"connection": {
 			"timeout": {
 				"peer": {
